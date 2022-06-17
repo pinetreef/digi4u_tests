@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "scripts": { "vercel-build": "npm run prepare && next build" }
-  },
+  "scripts": { "vercel-build": "npm run prepare && next build" },
+    
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pinetreef/digi4u_tests.git"
