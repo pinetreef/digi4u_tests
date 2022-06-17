@@ -1,0 +1,25 @@
+{
+  "name": "digi4u_cosmetic_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinetreef/digi4u_tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinetreef/digi4u_tests/issues"
+  },
+  "homepage": "https://github.com/pinetreef/digi4u_tests#readme",
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
